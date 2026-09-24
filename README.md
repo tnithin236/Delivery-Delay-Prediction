@@ -1,5 +1,8 @@
 # Delivery Delay Prediction System
 
+<img width="1917" height="1018" alt="image" src="https://github.com/user-attachments/assets/0ea8055e-2df7-487e-a6ab-d147c8a035c2" />
+
+
 An end-to-end machine learning application that predicts whether an e-commerce delivery will arrive **On Time** or be **Delayed**, with a Streamlit analytics dashboard for exploring delivery performance and scoring new orders.
 
 ## Project Overview
